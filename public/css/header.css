@@ -1,0 +1,46 @@
+.page-header {
+    background-color: #59766C;
+    padding: 16px;
+}
+
+.page-header{
+  display: flex;
+  align-items: center;
+  display: flex;
+    flex-wrap: wrap;
+    flex-grow: 1;
+    justify-content: space-between;
+}
+
+.page-header .logo{
+    width:20%;
+}
+
+.page-header .nav-item{
+    font-family: "Roboto", sans-serif;
+}
+
+.nav-list .nav-item{
+    list-style: none;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.nav-log .nav-item{
+   margin-left: 15px;
+    list-style: none;
+   
+}
+
+.nav-log{
+   display: flex;
+   flex-wrap: wrap;
+   margin-right: 5px;
+}
+
+.nav-list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    flex-grow: 1;
+ }

@@ -1,0 +1,16 @@
+.texto{
+    font-family: "Roboto", sans-serif;
+    background-color: aqua;
+}
+
+::-webkit-input-placeholder{
+    color: grey;
+    padding: 3px;
+    opacity: 50%;
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
